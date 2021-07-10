@@ -1,10 +1,14 @@
 My name is Nishu Rani
 
 
-In this project we do following files operations from a folder from user taking files names...
-- add txt files in a folder 
-- delete valid txt files in a folder 
-- search valid txt files in a folder .
+In this project we do following files operations in a folder from user taking files names…
 
+First customer enter its choice to do operations :-
+1.If he enters 1 then he want to add file in a folder . Then he will enter file name and then that file will be created and add into that folder .
+2.If he enters 2 then he want to delete file in a folder . Then he will enter file name which he want to delete . Then after that first check that file exists in folder or not . If file found then delete that file otherwise it will show file not found (invalid file).
+3.If he enters 3 then he want to search file in folder and then enter file name to search . If file found then it will show file found otherwise not found . 
+4.If he enter 4 then he will exit from the file operation.
+
+Note :- In all these file operations files will be sorted in ascending order . 
 
 
